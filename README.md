@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Leonardo Oliveira. Sou <strong>Estudante de Desenvolvimento Web</strong>.
+  🌎 Olá, meu nome é Leonardo Oliveira. Sou <strong>Estudante de Desenvolvimento Web</strong> na <a href="https://betrybe.com/" target="_blank">Trybe</a>, em um projeto em parceiria com a <a href="https://www.xpinc.com/" target="_blank">XP Inc.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, PHP, JavaScript, ReactJS, Node.js.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, PHP, JavaScript, ReactJS e Node.js.</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+  💌 Se você deseja bater um papo comigo, me envie uma mensagem! Gosto muito de compartilhar aprendizados e novas tecnologias/ferramentas.
 </p>
 
 <p align="left">
