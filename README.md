@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Leonardo Oliveira. Sou <strong>Estudante de Desenvolvimento Web</strong> na <a href="https://betrybe.com/" target="_blank">Trybe</a>, em um projeto em parceiria com a <a href="https://www.xpinc.com/" target="_blank">XP Inc.
+  🌎 Olá, meu nome é Leonardo Oliveira. Sou <strong>Estudante de Desenvolvimento Web</strong> na <a href="https://betrybe.com/" target="_blank">Trybe</a>, em um projeto em parceiria com a <a href="https://www.xpinc.com/" target="_blank">XP Inc.</a>
 </p>
 
 <p align="left">
