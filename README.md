@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Meu nome é Leonardo Oliveira, desenvolvi meu primeiro programa aos 14 anos, usando Visual Basic 6 com BD MS Acess e, desde então, me apaixonei por soluções de problemas usando programação. Hoje sou <strong>Estudante de Desenvolvimento Web</strong> na <a href="https://betrybe.com/" target="_blank">Trybe</a>, em um projeto em parceiria com a <a href="https://www.xpinc.com/" target="_blank">XP Inc.</a>
+  🌎 Meu nome é Leonardo Oliveira, desenvolvi meu primeiro programa aos 14 anos, usando Visual Basic 6 com BD MS Access e, desde então, me apaixonei por soluções de problemas usando programação. Hoje sou <strong>Estudante de Desenvolvimento Web</strong> na <a href="https://betrybe.com/" target="_blank">Trybe</a>, em um projeto em parceiria com a <a href="https://www.xpinc.com/" target="_blank">XP Inc.</a>
 </p>
 
 <p align="left">
