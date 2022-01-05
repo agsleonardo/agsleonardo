@@ -26,9 +26,6 @@
   </a>
 </p>
 <div align="center">
-  <p>
-    ⭐️ Perfil baseado em <a href="https://github.com/iuricode">Iuri Silva</a> e <a href="https://github.com/SrTonn">SrTonn</a>
-  </p>
-    <p></p>
+ <br>
   <img src="https://komarev.com/ghpvc/?username=agsleonardo" alt="profile views" />
 </div>
