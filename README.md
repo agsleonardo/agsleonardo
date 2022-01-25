@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 I'm Leonardo Oliveira, build my first software at 14yo, using Visual Basic 6 and DB MS Access and, since then, fall in love for solving problems by coding. Nowadays I'm <strong>Web Development Student</strong> at <a href="https://betrybe.com/" target="_blank">Trybe</a> in partnership with <a href="https://www.xpinc.com/" target="_blank">XP Inc.</a>
+  🌎 I'm Leonardo Oliveira and build my first software at 14yo, using Visual Basic 6 and DB MS Access and, since then, fall in love for solving problems by coding. Nowadays I'm <strong>Web Development Student</strong> at <a href="https://betrybe.com/" target="_blank">Trybe</a> in partnership with <a href="https://www.xpinc.com/" target="_blank">XP Inc.</a>
 </p>
 
 <p align="left">
