@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Meu nome é Leonardo Oliveira, desenvolvi meu primeiro sistema aos 14 anos, usando Visual Basic 6 com BD MS Access e, desde então, me apaixonei por soluções de problemas usando programação. Hoje sou <strong>Estudante de Desenvolvimento Web</strong> na <a href="https://betrybe.com/" target="_blank">Trybe</a>, em um projeto em parceria com a <a href="https://www.xpinc.com/" target="_blank">XP Inc.</a>
+  🌎 I'm Leonardo Oliveira, build my first software at 14yo, using Visual Basic 6 and DB MS Access and, since then, fall in love for solving problems by coding. Nowadays I'm <strong>Web Development Student</strong> at <a href="https://betrybe.com/" target="_blank">Trybe</a> in partnership with <a href="https://www.xpinc.com/" target="_blank">XP Inc.</a>
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, PHP, JavaScript, ReactJS e Node.js.</strong>
+  🦄 Skills: <strong>HTML, CSS, PHP, JavaScript, ReactJS e Node.js.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Git e GitHub.</strong>
+  💼 Tools: <strong>VSCode, AWS, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, me envie uma mensagem! Gosto muito de compartilhar aprendizados e novas tecnologias/ferramentas.
+  💌 Want you talk to me? DM me! I love share learnings and most new technologies.
 </p>
 
 <p align="left">
